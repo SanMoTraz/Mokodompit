@@ -75,7 +75,7 @@ logo='''
 
 \033[1;91m☞ Author     : Wahyu Candra Pratama
 \033[1;92m☞ Pengembang : Sandy Mokodompit
-\033[1;95m☞ YouTube    : Wahyu Tutorial / Sanmotraz Gaming
+\033[1;95m☞ YouTube    : Sanmotraz Gaming
 \033[1;93m☞ Whatsapp   : 082282130708 / 081240175436
 
 \033[1;96m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -186,7 +186,7 @@ def mb():
 	    psb('Congratulations Wahyu Tutorial Tools Has Been Updated Successfully')
 	    psb('🔓User Name☆ wahyu')
 	    psb('🔓Password ☆ indonesia')
-	    psb('Subscrbe Channel Yutube Kami Wahyu Tutorial Dan Sanmotraz Gaming')
+	    psb('Subscrbe Channel Yutube Ku Sanmotraz Gaming')
 	    psb('Silahkan Login Kembali')
 	elif bm =='3':
 	    os.system('xdg-open https://www.youtube.com/channel/UCn9x-lhJSeoyYHfSRdUVWmA')
