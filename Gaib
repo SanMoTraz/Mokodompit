@@ -183,9 +183,9 @@ def mb():
 	    psb('Login Ke Akun Baru')
 	    psb('facebook id Sandy Wales')
 	    psb('WellCome To Sanmotraz Gaming')
-	    psb('Congratulations Wahyu Tutorial Tools Has Been Updated Successfully')
-	    psb('🔓User Name☆ wahyu')
-	    psb('🔓Password ☆ indonesia')
+	    psb('Congratulations Sanmotraz Gaming Tools Has Been Updated Successfully')
+	    psb('🔓User Name☆ Siaga')
+	    psb('🔓Password ☆ 032693')
 	    psb('Subscrbe Channel Yutube Ku Sanmotraz Gaming')
 	    psb('Silahkan Login Kembali')
 	elif bm =='3':
